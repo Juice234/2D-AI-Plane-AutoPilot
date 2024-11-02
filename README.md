@@ -23,7 +23,7 @@ The 2D-AI Plane-AutoPilot project is designed to train a neural network model to
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/2D-AI-Plane-AutoPilot.git
+    git clone https://github.com/Juice234/2D-AI-Plane-AutoPilot.git
     cd 2D-AI-Plane-AutoPilot
     ```
 
